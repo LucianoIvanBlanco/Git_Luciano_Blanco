@@ -5,6 +5,7 @@ public class LB {
 		System.out.println("Alumno: Luciano Blanco");
 		System.out.println(" Modificacion desde Master - Cambiado");
 		System.out.println(" Modificacion desde Develop ");
+		System.out.println(" Modificacion desde GitHub");
 		
 	}
 
